@@ -1,14 +1,14 @@
-# MoonFlix
+# BertFlix
+<!-- 
+    Fullstack Responsive Movie Website 2022 -->
 
-    Fullstack Responsive Movie Website 2022
-
-# Video tutorial
+<!-- # Video tutorial
 
 [Part 1](https://youtu.be/j-Sn1b4OlLA)<br>
 
-[Part 2](https://youtu.be/Q_uLi4f27Lc)<br>
+[Part 2](https://youtu.be/Q_uLi4f27Lc)<br> -->
 
-# Resource
+<!-- # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
@@ -21,9 +21,9 @@
 [Axios](https://axios-http.com/)<br>
 [ThemovieDB](https://www.themoviedb.org/)<br>
 [Swiper](https://swiperjs.com/)<br>
-[JWT](https://github.com/auth0/node-jsonwebtoken)<br>
+[JWT](https://github.com/auth0/node-jsonwebtoken)<br> -->
 
-# Preview
+<!-- # Preview
 
 !["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207322539-8fcd83e1-8424-4922-980c-91d20cdf761c.png "Fullstack Responsive Movie Website 2022")
 
@@ -35,4 +35,4 @@
 
 !["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323098-dfa74553-78a8-4809-a7a7-cd569c3b3f6c.png "Fullstack Responsive Movie Website 2022")
 
-!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022")
+!["Fullstack Responsive Movie Website 2022"](https://user-images.githubusercontent.com/67447840/207323021-0b5657d2-8913-4b81-8c1b-d4ceef065ee6.png "Fullstack Responsive Movie Website 2022") -->
