@@ -1,3 +1,3 @@
 # BertFlix (MERN-MOVIE)
 
-Fronted (Client)
+Backend (Server)
