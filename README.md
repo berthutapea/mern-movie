@@ -9,6 +9,7 @@ Fullstack open source movie application made with MongoDB, Express, React & Node
       - [Frontend](#frontend)
       - [Backend](#backend)
       - [Database](#database)
+      - [API](#api)
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * [License](#license)
@@ -103,6 +104,10 @@ This project was created using the following technologies.
 ####  Database 
 
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+ 
+####  Api 
+
+ - [TMDB API](https://developer.themoviedb.org/docs) - An application programming interface that provides access to a database of movies, television shows, and related information from The Movie Database platform.
  
  ##  Screenshots 
  
